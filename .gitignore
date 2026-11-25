@@ -1,0 +1,19 @@
+# Build outputs
+Debug/
+Release/
+*.obj
+*.out
+*.map
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# IDE / OS
+.idea/
+.vscode/
+desktop.ini
+Thumbs.db
+.DS_Store
